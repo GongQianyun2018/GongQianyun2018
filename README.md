@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GongQianyun2018
 - 👀 I’m interested in video transmission and analysis.
-- 💞️ I’m looking to collaborate on undergraduate students interested in video transmission.
 - 📫 How to reach me gongqianyun@mail.nankai.edu.cn
 
 <!---
